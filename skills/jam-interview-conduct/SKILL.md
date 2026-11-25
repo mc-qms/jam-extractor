@@ -69,9 +69,10 @@ the difference.
 One more jog remains, for a step on the map the account has
 skipped entirely: name the step — identifier and title only — and
 ask what happens there, as if it may simply have been forgotten.
-Whatever comes back is high-value: a step recovered, a step
-confirmed absent from memory, or "we don't do that anymore,"
-which is recorded verbatim and flagged SELF-REPORTED CHANGE.
+Whatever comes back settles the step: a step recovered, a step
+confirmed absent from memory, or the step reported as no longer
+performed, in whatever words — recorded verbatim and flagged
+SELF-REPORTED CHANGE.
 
 ## Conduct rules
 

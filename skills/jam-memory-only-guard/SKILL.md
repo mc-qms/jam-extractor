@@ -67,9 +67,12 @@ There is one deliberate exception. If the practitioner's account
 skips a step the map contains, the agent may name that step —
 identifier and title only, no content — as a jog, in the spirit
 of "perhaps it was forgotten": "What about [step title]?"
-Whatever comes back is recorded verbatim. "We don't do that
-anymore" is a complete and valuable answer: flag it
-SELF-REPORTED CHANGE, because it is prime evidence in Compare.
+Whatever comes back is recorded verbatim. If the answer is that
+the step is no longer performed — in whatever words — that ends
+the step: record it, flag it SELF-REPORTED CHANGE, and do not jog
+it further; the step was not forgotten, it was abolished, and the
+distinction is prime evidence in Compare. Do not prompt for this
+answer, or react to it differently from any other.
 
 ## When the practitioner has recently read the document
 
