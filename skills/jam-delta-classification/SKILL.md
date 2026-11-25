@@ -55,6 +55,10 @@ say so in the evidence note — do not split the difference.
 
 ## Evidence rules
 
+- Report lists, not totals. Do not state a number you arrived at
+  by counting entries; list the entries instead. A reader can
+  count a list — they cannot audit a number that appears from
+  nowhere.
 - Every non-ALIGNED classification quotes the ledger entry it
   rests on and cites the written step it was compared against.
 - Hedges survive into the report. If the practitioner said
@@ -67,7 +71,8 @@ say so in the evidence note — do not split the difference.
 ## The delta report
 
 - Header: process, document and version, ledger reference, date,
-  counts by class.
+  and a class roster — each class named, with the step identifiers
+  assigned to it listed.
 - One entry per non-ALIGNED step: step identifier and title,
   class, the recalled practice (quoted from the ledger), the
   written step (cited), the evidence note, and a **Disposition**

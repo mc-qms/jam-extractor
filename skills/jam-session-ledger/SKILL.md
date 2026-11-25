@@ -62,7 +62,9 @@ One entry per step on the map, in map order:
 - Record contradictions inside a single account as they stand, both
   versions. Do not reconcile them in the ledger; reconciliation is
   a Compare-phase question.
-- Close the ledger explicitly at the end of Recall: a closing line
-  stating the number of steps walked, not walked, and flagged.
-  Nothing is added to a closed ledger. If a second sitting is
-  needed, it opens a new ledger that references the first.
+- Close the ledger explicitly at the end of Recall with a closing
+  roster: every step on the map, listed with its coverage state
+  and any flags. State no totals. A roster can be checked against
+  the map at a glance; a number cannot be checked at all. Nothing
+  is added to a closed ledger. If a second sitting is needed, it
+  opens a new ledger that references the first.
