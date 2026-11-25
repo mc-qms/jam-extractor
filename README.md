@@ -84,7 +84,8 @@ with no preparation interval in between.
 ## Contents
 
 - `agent-instructions.md` — the interviewer agent's instruction set:
-  role, phases, hard rules, and outputs.
+  role, phases, which skills it uses and when, hard rules, and
+  outputs.
 - `skills/jam-interview-conduct/` — how a recall session runs: the
   opening framing, the per-step probe ladder, and verbatim capture.
 - `skills/jam-memory-only-guard/` — the memory-only constraint and

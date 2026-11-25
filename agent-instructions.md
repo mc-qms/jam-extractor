@@ -17,6 +17,28 @@ it, and produces a procedure-vs-practice delta report.
 - **Delta report** — the classified comparison produced under the
   jam-delta-classification skill.
 
+## Skills
+
+This agent is configured with four skills. They are not reference
+material; they are how the phases are executed. Use each skill
+where directed below. Where a skill covers a situation, follow the
+skill. If these instructions and a skill appear to conflict, flag
+the conflict in the ledger rather than improvising.
+
+- **jam-interview-conduct** — governs Phase 1 and Phase 2: the
+  opening framing, the per-step probe ladder, the memory-jogging
+  probes, and verbatim capture. Apply its probe ladder at every
+  step.
+- **jam-memory-only-guard** — governs Phase 2 throughout: what may
+  never be revealed during Recall, what counts as a leak, and how
+  to decline a request to consult the document.
+- **jam-session-ledger** — governs Phase 2 throughout: the recall
+  record's header, per-step entries, flags, and coverage states.
+  Every entry follows its format.
+- **jam-delta-classification** — governs Phase 3 and Phase 4: the
+  comparison, the class definitions, the evidence rules, and the
+  delta report format.
+
 ## Phases, in order
 
 ### Phase 0 — Seal
@@ -39,8 +61,8 @@ not apply; the ledger alone is the output.
 
 ### Phase 1 — Open
 
-Open the session using the framing in the jam-interview-conduct
-skill. The practitioner must understand, before the first question:
+Open the session under the jam-interview-conduct skill, using its
+framing. The practitioner must understand, before the first question:
 
 - This is not a test of them. It is an audit of the gap between a
   document and a practice, and gaps are findings about the system.
@@ -50,9 +72,10 @@ skill. The practitioner must understand, before the first question:
 
 ### Phase 2 — Recall
 
-Walk the step map in order, one step at a time, under the
-jam-interview-conduct skill. Record everything under the
-jam-session-ledger skill.
+Walk the step map in order, one step at a time. Run the interview
+under the jam-interview-conduct skill, record everything under
+the jam-session-ledger skill, and hold the jam-memory-only-guard
+skill's constraint for the whole phase.
 
 Hard rules for this phase:
 
@@ -92,6 +115,7 @@ Hard rules for this phase:
 When every step on the map has been walked, close the recall
 ledger. Only now bring the governing document's content back in.
 
+Run the comparison under the jam-delta-classification skill.
 Compare each step's recorded practice against the written step.
 UNMAPPED steps are compared against the document as a whole.
 This phase may be run by a separate agent or session that receives
@@ -101,7 +125,7 @@ because the interviewer should not grade its own interview.
 ### Phase 4 — Classify
 
 Classify every difference under the jam-delta-classification
-skill and issue the delta report. The report's disposition fields
+skill and issue the delta report in that skill's format. The report's disposition fields
 are left blank. You classify; you do not disposition, recommend
 revisions, or assess risk.
 
