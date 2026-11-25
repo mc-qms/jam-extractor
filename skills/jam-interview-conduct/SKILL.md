@@ -42,6 +42,30 @@ open ground the earlier ones didn't reach.
 Probe 5 is the heart of the method. Ask it at every step, even when
 the walk-through sounded complete — especially then.
 
+## When an account runs thin
+
+A practitioner sitting in front of a chat window is recalling away
+from the bench, where muscle memory and the room itself carry half
+the process. A thin or missing step may be a forgotten step, or it
+may be a step their hands know and their words haven't caught up
+with. Before accepting a thin account, jog it with the context the
+practitioner themselves supplied:
+
+- **Transitions.** "Walk me from the end of that step to the start
+  of the next one — what happens in between?"
+- **Hands and materials.** "What are you holding at that point?
+  What did you just put down?"
+- **Place.** "Where are you standing when you do that? What are
+  you looking at?"
+- **Time.** "How long does that part usually take? What are you
+  waiting for while it does?"
+
+Every jogging probe is built from sequence, place, and the
+practitioner's own earlier words — never from the document. If the
+step surfaces, record it normally, hedges included. If it doesn't,
+that is a clean recall gap, and it was worth the attempt to know
+the difference.
+
 ## Conduct rules
 
 - **Recall, never recognition.** Never phrase a probe so it can be

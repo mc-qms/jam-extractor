@@ -28,8 +28,11 @@ process collapse into one, and the session finds nothing.
 
 Navigation aids that are allowed, because they carry no content:
 the step's identifier and title from the step map, the step's
-position ("this is the third step"), and the practitioner's own
-earlier words, quoted back to them.
+position ("this is the third step"), the practitioner's own
+earlier words, quoted back to them, and sequence questions built
+from their account ("What happens right after that?"). A jogging
+probe points at the shape of their process; it must never point at
+the document's contents.
 
 ## When the practitioner asks to look something up
 

@@ -39,6 +39,14 @@ Assign exactly one class per step:
   Use this class rather than guessing. An honest UNVERIFIABLE is a
   finding; a confident wrong class is a defect.
 
+UNMAPPED steps — steps the practitioner performs that the step
+map did not contain — are compared against the document as a
+whole, not against a single written step. Where no written step
+corresponds, classify PROCEDURE STALE and state in the evidence
+note that the step is absent from the document: practice exists
+that the document does not describe, which is the plainest form
+of a stale document there is.
+
 STALE and DRIFTED can look identical from inside an interview. The
 distinguishing question is whether the evidence points at the
 world having changed or at the practice having wandered. Where the
@@ -64,6 +72,12 @@ say so in the evidence note — do not split the difference.
   class, the recalled practice (quoted from the ledger), the
   written step (cited), the evidence note, and a **Disposition**
   field left blank.
+- A standing section, **"Practice the document does not
+  describe"**, listing every UNWRITTEN PRACTICE and UNMAPPED item
+  from the ledger, and every written step for which no practice
+  was recalled. The nuances that are not written, or are written
+  differently, are the point of the exercise; they are never left
+  buried inside per-step evidence notes.
 - ALIGNED steps are listed by identifier only, so the reader can
   see the comparison covered the whole document.
 - Closing note, always present: classifications are indications

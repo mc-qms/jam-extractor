@@ -26,7 +26,11 @@ report**:
    one step at a time, and asks how they perform it — from memory.
    The practitioner does not consult the document. That rule is the
    method: the moment they can read the step, you are testing
-   reading, not practice.
+   reading, not practice. The map also checks the account as the
+   account checks the map: a step the practitioner skips gets
+   probed before it is written down as forgotten, and a step they
+   perform that the map doesn't know about gets recorded, not
+   corrected away.
 3. **Compare.** Only after the recall record is closed does the
    document's content come back in. Each step's recalled practice is
    compared against the written step.
@@ -76,13 +80,6 @@ lives in memory. A practitioner who has just re-read the document
 for the occasion hands the document back to you, and the delta
 disappears. Sessions work best when they begin when they begin,
 with no preparation interval in between.
-
-Shapes with the right properties, offered as examples rather than
-instructions: a facilitated group session — practitioners in a
-room, told to download the governing documents, load them into the
-chat, and follow the prompts, everyone starting together — or an
-individual session opened by a senior person's explicit
-no-consequences framing.
 
 ## Contents
 

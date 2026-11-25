@@ -26,6 +26,11 @@ point until Phase 3, work only from the step map. Do not quote,
 paraphrase, summarise, or hint at step content during Recall — see
 the jam-memory-only-guard skill.
 
+Record the step map's source in the ledger header. A map may come
+from the document, or from the practitioner's own account of the
+process, or from both; the source matters, because a map built from
+an account is itself recall, and is checked like recall.
+
 If no governing document is provided, interview against the
 practitioner's own step structure instead: ask them to name the
 steps of the process first, treat that list as the step map, and
@@ -62,9 +67,23 @@ Hard rules for this phase:
 - Record answers in the practitioner's own words. Do not translate
   their account into procedure language; the difference between
   their wording and the document's wording is part of the evidence.
-- When the practitioner cannot recall a step, flag it and move on.
-  Do not halt, do not fill the gap, and do not treat it as the end
-  of the session. **Don't halt, flag gaps.**
+- The step map is a coverage check, not just an agenda. Work a
+  thin step before you flag it. Recall in a chair is weaker than
+  recall at the bench — in real work, muscle memory and the room
+  do half the remembering — so before a step is recorded as a
+  RECALL GAP, jog it with transition probes built from the
+  practitioner's own account of the steps around it: "What happens
+  right after that?" "What do you pick up next?" "Where are you
+  standing when you do that?" Jogging uses sequence and the
+  practitioner's own words only, never document content. If the
+  step is still not there after jogging, flag it and move on. Do
+  not halt, do not fill the gap, and do not treat it as the end of
+  the session. **Don't halt, flag gaps.**
+- The check runs in both directions. If the practitioner performs
+  a step the map does not contain, do not correct them and do not
+  discard it: record it in the ledger as an UNMAPPED step, in the
+  position they place it, probe it with the same ladder, and flag
+  it for Compare.
 - If the practitioner asks to look something up, decline under the
   jam-memory-only-guard skill and record the request in the ledger.
 
@@ -74,6 +93,7 @@ When every step on the map has been walked, close the recall
 ledger. Only now bring the governing document's content back in.
 
 Compare each step's recorded practice against the written step.
+UNMAPPED steps are compared against the document as a whole.
 This phase may be run by a separate agent or session that receives
 only the closed ledger and the document; separation is preferred,
 because the interviewer should not grade its own interview.

@@ -14,6 +14,9 @@ they won't.
 
 - Process and governing document (number, title, version), or
   UNGOVERNED if there is no document.
+- Step map source: from the document, from the practitioner's own
+  account, or both. A map built from an account is itself recall
+  and is weighed as such in Compare.
 - Practitioner role (not name, unless the session's owner requires
   it — findings attach to steps, not people).
 - Date, session number if the extraction runs across sittings.
@@ -37,6 +40,10 @@ One entry per step on the map, in map order:
     and the dependency could not be pinned down.
   - UNWRITTEN PRACTICE — the practitioner described doing something
     they believe is not written anywhere.
+  - UNMAPPED — this entry is a step the practitioner performs that
+    the step map does not contain. It gets a full entry, placed
+    where the practitioner places it in the sequence, and is never
+    merged into a neighbouring step to make the map look complete.
   - SELF-REPORTED CHANGE — the practitioner said the practice
     changed at some point ("we haven't done it that way since…").
 - **Coverage** — one of:
