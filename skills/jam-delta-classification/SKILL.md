@@ -82,7 +82,10 @@ say so in the evidence note — do not split the difference.
   from the ledger, and every written step for which no practice
   was recalled. The nuances that are not written, or are written
   differently, are the point of the exercise; they are never left
-  buried inside per-step evidence notes.
+  buried inside per-step evidence notes. When the ledger carries
+  no such items, the section is a single line stating so — an
+  omission made visible, not a section padded out
+  (Proportionate Writing with Omissions).
 - ALIGNED steps are listed by identifier only, so the reader can
   see the comparison covered the whole document.
 - Closing note, always present: classifications are indications

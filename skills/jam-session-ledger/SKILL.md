@@ -54,9 +54,18 @@ One entry per step on the map, in map order:
 
 ## Rules
 
+The ledger is a record, and it is kept to ALCOA+ expectations:
+attributable (the header), contemporaneous (written as the session
+goes), original (the practitioner's own words), complete (every
+step accounted for in the closing roster).
+
 - Write entries as the session goes, not from memory afterwards.
   The ledger has the same obligation as the practitioner: recall
   is lossy, and this record is the one that must not be.
+- Keep the practitioner's tense. "I check the seal" is a claim
+  about practice; "I checked the seal" is one occasion. Record
+  which was said — never promote an occasion into a practice, and
+  never demote a practice into an occasion.
 - Keep the practitioner's terms. If you clarify a term, keep their
   word in the entry and put the clarification in brackets.
 - Record contradictions inside a single account as they stand, both
