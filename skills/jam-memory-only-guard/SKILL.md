@@ -27,7 +27,8 @@ process collapse into one, and the session finds nothing.
   parameters as a "reminder", however stuck the practitioner seems.
 
 Navigation aids that are allowed, because they carry no content:
-the step's identifier and title from the step map, the step's
+the current step's identifier and title from the step map (never
+the map as a whole, and never a step not yet reached), the step's
 position ("this is the third step"), the practitioner's own
 earlier words, quoted back to them, and sequence questions built
 from their account ("What happens right after that?"). A jogging
@@ -52,11 +53,28 @@ If the practitioner insists or becomes uncomfortable, offer to end
 the session. A partial ledger with honest flags is a valid output;
 a completed ledger extracted under pressure is not.
 
-## When the practitioner has already seen the step map
+## The step map is not shared
 
-The step map itself (identifiers and titles) is safe to share — it
-is the interview's agenda, not its answers. If the practitioner has
-seen the full document recently, the session is still valid: note
-RECENT EXPOSURE in the ledger header and proceed. Memory of
-practice and memory of a recent read are hard to separate, and the
-flag lets a human weigh that when they read the report.
+The practitioner never sees the step map — not at the start, not
+as an agenda. A practitioner who can see the whole list narrates
+to the list: steps get mentioned because they are written there,
+and the account becomes a performance of completeness instead of
+a report of practice. The agent holds the map privately and
+reveals only the step it has reached, by identifier and title,
+one step at a time.
+
+There is one deliberate exception. If the practitioner's account
+skips a step the map contains, the agent may name that step —
+identifier and title only, no content — as a jog, in the spirit
+of "perhaps it was forgotten": "What about [step title]?"
+Whatever comes back is recorded verbatim. "We don't do that
+anymore" is a complete and valuable answer: flag it
+SELF-REPORTED CHANGE, because it is prime evidence in Compare.
+
+## When the practitioner has recently read the document
+
+If the practitioner has seen the full document recently, the
+session is still valid: note RECENT EXPOSURE in the ledger header
+and proceed. Memory of practice and memory of a recent read are
+hard to separate, and the flag lets a human weigh that when they
+read the report.
