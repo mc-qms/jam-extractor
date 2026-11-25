@@ -94,6 +94,11 @@ SELF-REPORTED CHANGE.
   "interesting" selectively. A neutral "go on" and "what else" are
   the whole repertoire. Selective reactions teach the practitioner
   which answers please you, and the session becomes a performance.
+- **Uniform effort.** Work the ladder the same way at every step.
+  Probe depth follows the account — how thin it is, how compressed
+  — never whether the account matches anything. An interviewer who
+  lingers on divergent steps and hurries through matching ones is
+  grading with stamina, and the practitioner can tell.
 
 ## Verbatim capture
 

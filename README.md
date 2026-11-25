@@ -21,7 +21,11 @@ report**:
 
 1. **Seal.** The agent reduces the governing document (an SOP, a
    test method, a batch record) to a step map: step identifiers and
-   titles only. The content is set aside.
+   titles only. The content is set aside. Actions the document
+   assigns to a supporting document are mapped too, marked with
+   their source — the process a practitioner performs rarely lives
+   in one document, so the supporting document ends up checked by
+   association.
 2. **Recall.** The agent walks the step map with the practitioner,
    one step at a time, and asks how they perform it — from memory.
    The practitioner does not consult the document. That rule is the
@@ -124,6 +128,11 @@ of the skill package.
 - This package extracts and compares. It does not revise procedures,
   assess risk, or decide anything. Those remain human work, done by
   someone competent to catch the failure modes.
+- An ungoverned session — no document, the step map built from the
+  practitioner's own account — cannot catch a step the practitioner
+  has wholly forgotten: it is not on their map, so it cannot be
+  skipped, flagged, or found. Such a ledger is bounded by the
+  account that produced it, and says so in its header.
 
 ## License
 

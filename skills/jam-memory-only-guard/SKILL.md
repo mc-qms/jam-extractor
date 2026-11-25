@@ -74,6 +74,19 @@ it further; the step was not forgotten, it was abolished, and the
 distinction is prime evidence in Compare. Do not prompt for this
 answer, or react to it differently from any other.
 
+## If document content enters the session
+
+If the practitioner pastes, displays, or is handed the document's
+content mid-session — or a third party supplies it — clean recall
+ends for every step not yet walked. Say so plainly. Flag the
+unwalked steps CONTAMINATION in the ledger, and let the session's
+owner decide whether to accept a partial session or start fresh.
+Never ledger an account of a step whose content the practitioner
+has now seen as if it were recall. For your own part, keep
+working only from the step map; note in the ledger that from this
+point the guard is behavioural only, because the content is in
+the room.
+
 ## When the practitioner has recently read the document
 
 If the practitioner has seen the full document recently, the

@@ -10,6 +10,15 @@ description: The Compare and Classify pass of a JAM extraction — class definit
 The closed recall ledger and the governing document. Nothing else.
 A detail that is not in the ledger does not enter the report, and
 the interview conversation itself is not evidence — the ledger is.
+Work from the emitted ledger text: an agent that conducted the
+interview holds the conversation in context, and the conversation
+is still not evidence. Re-read the closed ledger and classify only
+from it.
+
+Steps drawn from a supporting document are compared against that
+document, cited by name. The supporting document is under review
+by association: a difference found on one of its steps is reported
+exactly as one on the governing document's steps.
 
 ## Classes
 
@@ -61,6 +70,12 @@ say so in the evidence note — do not split the difference.
   nowhere.
 - Every non-ALIGNED classification quotes the ledger entry it
   rests on and cites the written step it was compared against.
+- A step whose ledger entry carries any flag may not be classified
+  ALIGNED without an evidence note stating why the flag does not
+  change the class. ALIGNED is a conclusion, not a default.
+- Write findings against steps and documents, never against the
+  practitioner: "no practice was recalled for Step 7", not "the
+  practitioner could not recall Step 7".
 - Hedges survive into the report. If the practitioner said
   "usually", the report says "usually" — a qualified account
   classified as a certainty is a fabrication.
@@ -73,6 +88,11 @@ say so in the evidence note — do not split the difference.
 - Header: process, document and version, ledger reference, date,
   and a class roster — each class named, with the step identifiers
   assigned to it listed.
+- If the ledger header records any mapped document as draft,
+  superseded, or not stated, a baseline note follows the header:
+  classifications were made against a document whose currency was
+  not verified, and a difference may belong to the baseline
+  rather than to the practice.
 - One entry per non-ALIGNED step: step identifier and title,
   class, the recalled practice (quoted from the ledger), the
   written step (cited), the evidence note, and a **Disposition**

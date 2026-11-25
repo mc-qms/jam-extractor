@@ -12,11 +12,17 @@ they won't.
 
 ## Header
 
-- Process and governing document (number, title, version), or
-  UNGOVERNED if there is no document.
+- Process and governing document (number, title, version), plus
+  every supporting document the map draws on (number, title,
+  version). For each document, its status as supplied: effective,
+  draft, superseded, or not stated. Or UNGOVERNED if there is no
+  document.
 - Step map source: from the document, from the practitioner's own
   account, or both. A map built from an account is itself recall
-  and is weighed as such in Compare.
+  and is weighed as such in Compare. In an UNGOVERNED session
+  there is no Compare, and the ledger's completeness is bounded
+  by the account that produced the map: a step the practitioner
+  has wholly forgotten is not on it, and cannot be caught.
 - Practitioner role (not name, unless the session's owner requires
   it — findings attach to steps, not people).
 - Date, session number if the extraction runs across sittings.
@@ -46,6 +52,10 @@ One entry per step on the map, in map order:
     merged into a neighbouring step to make the map look complete.
   - SELF-REPORTED CHANGE — the practitioner said the practice
     changed at some point ("we haven't done it that way since…").
+  - CONTAMINATION — document content entered the session before
+    this step was walked. No recall account is taken for a
+    contaminated step; anything said about it afterwards is
+    recognition, not recall, and is recorded as such.
 - **Coverage** — one of:
   - WALKED — the step was interviewed.
   - NOT WALKED — the session ended before this step. Never leave a
@@ -75,5 +85,7 @@ step accounted for in the closing roster).
   roster: every step on the map, listed with its coverage state
   and any flags. State no totals. A roster can be checked against
   the map at a glance; a number cannot be checked at all. Nothing
-  is added to a closed ledger. If a second sitting is needed, it
+  is added to a closed ledger. Closing means emitting the ledger
+  in full, as the session's record; Compare works from the
+  emitted text, not from the conversation. If a second sitting is needed, it
   opens a new ledger that references the first.
