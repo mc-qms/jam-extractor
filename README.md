@@ -101,6 +101,16 @@ agent builders that accept an instruction set plus skill files, and
 the design follows one rule throughout: the structure carries the
 discipline, so the model only has to be literate.
 
+## Deployment
+
+The agent is not grounded in any tenant or company data. The
+governing document is supplied at the start of each session by
+whoever runs it, and the package retains nothing from any session.
+As an instructions-and-skills agent with no knowledge sources, it
+can be shared broadly. On agent platforms with skill support, each
+folder in `skills/` is one skill, with its `SKILL.md` at the root
+of the skill package.
+
 ## Honest limits
 
 - The memory-only guard is behavioural, not cryptographic. The agent
